@@ -1,0 +1,15 @@
+*********************************************************************************
+
+				IMPORTANT
+			Instructions to Use this app
+
+
+*********************************************************************************
+
+1. Download and then Unzip these files
+2. Ensure you have Python Version 3.6+ Installed with pip
+3. cd into this directory 
+4. run the command "python -m pip install -r requirements.txt"
+5. run "python main.py" In the same directory
+6. go to localhost:8000 on your computer
+7. Upload your image and see the Results 🚀
